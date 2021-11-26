@@ -1,0 +1,8 @@
+time 0 object box visible color LtYellow pos 0, 1, 0 vel 1, 0, 1 acc 0, 0, 0 rot 0, 45, 45 rvel 0, 0, 0 racc 0, 0, 0
+
+time 1.0 object box visible color LtYellow pos 3, 3, 3 vel -1, 0, -1 acc 0, 0, 0 rot 0, 0, 0 rvel 0, -3, 0 racc 0, 0, 0
+
+time 3.0 object box visible color LtYellow pos 3, 8, 0 vel -1, 0, 0 acc 0, -3, 0 rot 0, 0, 0 rvel 0, 0, 0 racc 0, 0, 0
+
+time 6.0 object box visible color LtYellow pos 0, 2, 0 vel 0, 0, 0 acc 0, 0, 0 rot 0, 0, 0 rvel 0, 0, 0 racc 0, 0, 1
+
