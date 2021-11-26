@@ -4,4 +4,4 @@ This is a proof of concept visualization for running sequence of kinematic keyfr
 
 [TRY IT HERE](https://tanat44.github.io/assets/3d-kinematic-visualization/index.html)
 
-![](/doc/screenshot.png)
+![](doc/screenshot.PNG)
